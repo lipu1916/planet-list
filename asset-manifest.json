@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/planet-list/planet_list/static/css/main.4d02df88.chunk.css",
-    "main.js": "/planet-list/planet_list/static/js/main.a5a2e509.chunk.js",
-    "main.js.map": "/planet-list/planet_list/static/js/main.a5a2e509.chunk.js.map",
-    "runtime-main.js": "/planet-list/planet_list/static/js/runtime-main.4261c84f.js",
-    "runtime-main.js.map": "/planet-list/planet_list/static/js/runtime-main.4261c84f.js.map",
-    "static/js/2.9509a5cf.chunk.js": "/planet-list/planet_list/static/js/2.9509a5cf.chunk.js",
-    "static/js/2.9509a5cf.chunk.js.map": "/planet-list/planet_list/static/js/2.9509a5cf.chunk.js.map",
-    "static/js/3.bfbf651a.chunk.js": "/planet-list/planet_list/static/js/3.bfbf651a.chunk.js",
-    "static/js/3.bfbf651a.chunk.js.map": "/planet-list/planet_list/static/js/3.bfbf651a.chunk.js.map",
-    "index.html": "/planet-list/planet_list/index.html",
-    "static/css/main.4d02df88.chunk.css.map": "/planet-list/planet_list/static/css/main.4d02df88.chunk.css.map",
-    "static/js/2.9509a5cf.chunk.js.LICENSE.txt": "/planet-list/planet_list/static/js/2.9509a5cf.chunk.js.LICENSE.txt"
+    "main.css": "/planet-list/static/css/main.4d02df88.chunk.css",
+    "main.js": "/planet-list/static/js/main.a5a2e509.chunk.js",
+    "main.js.map": "/planet-list/static/js/main.a5a2e509.chunk.js.map",
+    "runtime-main.js": "/planet-list/static/js/runtime-main.350a51d4.js",
+    "runtime-main.js.map": "/planet-list/static/js/runtime-main.350a51d4.js.map",
+    "static/js/2.9509a5cf.chunk.js": "/planet-list/static/js/2.9509a5cf.chunk.js",
+    "static/js/2.9509a5cf.chunk.js.map": "/planet-list/static/js/2.9509a5cf.chunk.js.map",
+    "static/js/3.bfbf651a.chunk.js": "/planet-list/static/js/3.bfbf651a.chunk.js",
+    "static/js/3.bfbf651a.chunk.js.map": "/planet-list/static/js/3.bfbf651a.chunk.js.map",
+    "index.html": "/planet-list/index.html",
+    "static/css/main.4d02df88.chunk.css.map": "/planet-list/static/css/main.4d02df88.chunk.css.map",
+    "static/js/2.9509a5cf.chunk.js.LICENSE.txt": "/planet-list/static/js/2.9509a5cf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4261c84f.js",
+    "static/js/runtime-main.350a51d4.js",
     "static/js/2.9509a5cf.chunk.js",
     "static/css/main.4d02df88.chunk.css",
     "static/js/main.a5a2e509.chunk.js"
