@@ -11,7 +11,7 @@
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "https://lipu1916.github.io/planet-list/planet_list/",
+  "homepage": "https://lipu1916.github.io/planet-list",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
